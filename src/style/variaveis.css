@@ -1,0 +1,14 @@
+footer {
+    width: 100%;
+    background-color: rgb(15, 12, 39);
+    color:rgb(230, 230, 230);
+    padding: 10px
+}
+footer h3{
+    width: 100%;
+    text-align: center;
+}
+footer p{
+    width: 100%;
+    text-align: center;
+}
